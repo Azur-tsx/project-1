@@ -4,19 +4,19 @@
 
 ## 🎯 Objectif pédagogique
 
-L’objectif est de concevoir l’identité visuelle d’un site web à créer, en définissant un nom, un slogan, un logo, puis en réalisant les wireframes et maquettes des principales pages.
+L’objectif est de concevoir l’identité visuelle d’un site web à créer, en définissant un nom, un slogan, un logo, puis en réalisant les wireframes et maquettes des pages principales.
 
 ---
 
 ## 🧭 Contexte du projet
 
-Vous êtes mandaté·e par un client (réel ou fictif) pour imaginer un site web résolvant un problème que vous avez identifié. Avant de passer au développement, vous devez lui soumettre une première proposition visuelle : nom, slogan, logo, ainsi qu’une maquette claire de votre site.
+Vous êtes mandaté par un client (réel ou fictif) pour imaginer un site web résolvant un problème que vous avez identifié. Avant de passer au développement, vous devez lui soumettre une première proposition visuelle : nom, slogan, logo, ainsi qu’une maquette claire de votre site.
 
 ---
 
 ## 📚 Modalités pédagogiques
 
-Atelier individuel en autonomie accompagnée, avec retours collectifs.
+Activité individuelle en mode collaboratif
 
 ### Étapes :
 
@@ -37,6 +37,7 @@ Atelier individuel en autonomie accompagnée, avec retours collectifs.
 ## 📤 Livrables attendus
 
 * Fichier Figma ou PDF avec les wireframes et les maquettes.
+* Présentation professionnelle devant les pairs.
 * Document ou slide de présentation avec :
   * nom du projet
   * slogan
@@ -46,11 +47,10 @@ Atelier individuel en autonomie accompagnée, avec retours collectifs.
 
 ## 📏 Critères de performance
 
-* Pertinence du nom, du slogan et du logo.
 * Présence d’au moins 3 wireframes + 3 maquettes haute fidélité.
 * Respect des principes de lisibilité, hiérarchie visuelle, cohérence graphique.
 * Utilisation d’un outil professionnel de maquettage.
-* Présentation orale claire (si demandée).
+* Présentation orale claire.
 
 ---
 
