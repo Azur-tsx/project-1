@@ -41,14 +41,13 @@ Atelier individuel en autonomie accompagnée, avec retours collectifs.
 
 ## 🗓 Deadline
 
-À définir selon ta planification (ex : vendredi semaine 1 à 16h)
+5 jours
 
 ---
 
 ## 📤 Livrables attendus
 
 * Fichier Figma ou PDF avec les wireframes et les maquettes.
-* Export PNG du logo.
 * Document ou slide de présentation avec :
 
   * nom du projet
