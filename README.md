@@ -1,5 +1,7 @@
 # 🧾 Brief : Identité visuelle & maquettes
 
+<img src="./img/designer.svg" alt="designer">
+
 ## 🎯 Objectif pédagogique
 
 L’objectif est de concevoir l’identité visuelle d’un site web à créer, en définissant un nom, un slogan, un logo, puis en réalisant les wireframes et maquettes des principales pages.
