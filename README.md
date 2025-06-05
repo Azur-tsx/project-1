@@ -1,4 +1,4 @@
-# 🧾 Brief : Identité visuelle & maquettes
+# 🧾 Identité visuelle & maquettes
 
 <img src="./img/designer.svg" alt="designer">
 
