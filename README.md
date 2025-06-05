@@ -1,18 +1,5 @@
 # 🧾 Brief : Identité visuelle & maquettes
 
-## 🗂 Situation professionnelle
-
-* **Nom de la situation :** Création d'une identité visuelle pour un futur site web
-* **Langue :** Français
-* **Métier visé :** Développeur·se front-end
-* **Besoin / Problème rencontré :** Un client souhaite créer un site web pour résoudre un problème qu’il a identifié. Il vous mandate pour imaginer une première proposition d’identité visuelle et de structure.
-* **Description du geste professionnel :** Concevoir l'identité graphique d’un projet web et modéliser ses premières interfaces utilisateurs à l’aide d’outils de maquettage.
-* **Compétences visées :**
-
-  * ✅ C2 – Réaliser une interface utilisateur web statique et adaptable – niveau 1
-
----
-
 ## 🎯 Objectif pédagogique
 
 L’objectif est de concevoir l’identité visuelle d’un site web à créer, en définissant un nom, un slogan, un logo, puis en réalisant les wireframes et maquettes des principales pages.
