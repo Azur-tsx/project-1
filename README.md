@@ -38,7 +38,6 @@ Atelier individuel en autonomie accompagnée, avec retours collectifs.
 
 * Fichier Figma ou PDF avec les wireframes et les maquettes.
 * Document ou slide de présentation avec :
-
   * nom du projet
   * slogan
   * justification des choix graphiques
