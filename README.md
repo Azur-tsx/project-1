@@ -30,7 +30,7 @@ Activité individuelle en mode collaboratif
 
 ## 🗓 Deadline
 
-5 jours
+4 jours ouvrés
 
 ---
 
