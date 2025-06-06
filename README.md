@@ -59,7 +59,6 @@ Activité individuelle en mode collaboratif
 * [Figma – Interface & outils](https://www.figma.com)
 * [Colorhunt – Palettes de couleurs](https://colorhunt.co)
 * [Google Fonts – Choix de typographies](https://fonts.google.com)
-* [UI Patterns](https://ui-patterns.com)
 
 ---
 
