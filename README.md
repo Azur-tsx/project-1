@@ -34,7 +34,7 @@ Activité individuelle en mode collaboratif
 
 ---
 
-## 📤 Livrables attendus
+## 📦 Livrables attendus
 
 * Fichier Figma ou PDF avec les wireframes et les maquettes.
 * Présentation professionnelle devant les pairs.
@@ -45,7 +45,7 @@ Activité individuelle en mode collaboratif
 
 ---
 
-## 📏 Critères de performance
+## ✅ Critères de performance
 
 * Présence d’au moins 3 wireframes + 3 maquettes haute fidélité.
 * Respect des principes de lisibilité, hiérarchie visuelle, cohérence graphique.
